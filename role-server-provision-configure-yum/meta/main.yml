@@ -1,0 +1,15 @@
+galaxy_info:
+  author: Sergiu Icobescu
+  description: Configures yum
+  license: BSD
+  min_ansible_version: 2.4
+  platforms:
+  - name: Linux
+    versions:
+    - all
+  galaxy_tags:
+    - Linux
+    - hardening
+
+dependencies: []
+
